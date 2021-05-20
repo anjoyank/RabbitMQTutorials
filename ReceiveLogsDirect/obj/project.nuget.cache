@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7+wSWrpkeD/giLQEje5YgbRZPOjisO7khzHrMMl4jYX7uu+YPqQTRmADU3yfXNV1QbvWlNafwlzN2ZMJKooSmQ==",
+  "dgSpecHash": "IUeAFYOGVTgZeE4auPbz9jGE8ERZELOxXsOzdJEdiBO7smNlYdBWhP/iAMmCHyN1gyQ6u7W7Etp/ojNWOfEKIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\ReceiveLogsDirect\\ReceiveLogsDirect.csproj",
+  "projectFilePath": "c:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\RabbitMQTutorials\\ReceiveLogsDirect\\ReceiveLogsDirect.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anjoy\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
     "C:\\Users\\anjoy\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

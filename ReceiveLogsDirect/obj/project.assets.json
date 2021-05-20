@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\ReceiveLogsDirect\\ReceiveLogsDirect.csproj",
+      "projectUniqueName": "c:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\RabbitMQTutorials\\ReceiveLogsDirect\\ReceiveLogsDirect.csproj",
       "projectName": "ReceiveLogsDirect",
-      "projectPath": "C:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\ReceiveLogsDirect\\ReceiveLogsDirect.csproj",
+      "projectPath": "c:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\RabbitMQTutorials\\ReceiveLogsDirect\\ReceiveLogsDirect.csproj",
       "packagesPath": "C:\\Users\\anjoy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\ReceiveLogsDirect\\obj\\",
+      "outputPath": "c:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\RabbitMQTutorials\\ReceiveLogsDirect\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anjoy\\AppData\\Roaming\\NuGet\\NuGet.Config"

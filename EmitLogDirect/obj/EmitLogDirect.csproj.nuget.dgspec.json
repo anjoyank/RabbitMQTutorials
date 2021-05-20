@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\EmitLogDirect\\EmitLogDirect.csproj": {}
+    "c:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\RabbitMQTutorials\\EmitLogDirect\\EmitLogDirect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\EmitLogDirect\\EmitLogDirect.csproj": {
+    "c:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\RabbitMQTutorials\\EmitLogDirect\\EmitLogDirect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\EmitLogDirect\\EmitLogDirect.csproj",
+        "projectUniqueName": "c:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\RabbitMQTutorials\\EmitLogDirect\\EmitLogDirect.csproj",
         "projectName": "EmitLogDirect",
-        "projectPath": "C:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\EmitLogDirect\\EmitLogDirect.csproj",
+        "projectPath": "c:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\RabbitMQTutorials\\EmitLogDirect\\EmitLogDirect.csproj",
         "packagesPath": "C:\\Users\\anjoy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\EmitLogDirect\\obj\\",
+        "outputPath": "c:\\Users\\anjoy\\ALL DEV WORK\\RABBITMQTUTORIALS\\RabbitMQTutorials\\EmitLogDirect\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjoy\\AppData\\Roaming\\NuGet\\NuGet.Config"
