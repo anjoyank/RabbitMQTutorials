@@ -1,0 +1,2 @@
+# RabbitMQTutorials
+RabbitMQ Tutorial Projects
